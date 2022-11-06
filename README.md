@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/omgomimmanuel/count.svg)
 
 <!---
 gomgomimmanuel/gomgomimmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
